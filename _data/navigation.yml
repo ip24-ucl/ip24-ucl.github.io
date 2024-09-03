@@ -1,0 +1,6 @@
+- name: Home 
+  link: / 
+- name: Invited Speakers 
+  link: /#speakers 
+- name: Preliminary Schedule 
+  link: /#schedule 

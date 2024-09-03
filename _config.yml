@@ -1,0 +1,14 @@
+plugins: 
+ - jekyll-feed
+ - jekyll-sitemap
+ - jekyll-seo-tag
+
+github: [metadata]
+
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
+
+#theme: clean-jekyll-theme 
